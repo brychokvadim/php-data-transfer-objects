@@ -3,11 +3,11 @@
 	"description": "PHP data transfer objects",
 	"license": "MIT",
 	"require": {
-		"php": ">=8.2",
+		"php": ">=8.3",
 		"ext-json": "*",
-		"illuminate/support": "^9.0|^10.0|^11.0",
+		"illuminate/support": "^9.0|^10.0|^11.0|^12.0",
 		"spatie/macroable": "1.0.1",
-		"tenantcloud/php-standard": "1.2 || ^1.4 || ^2.0"
+		"brychokvadim/php-standard": "1.2 || ^1.4 || ^2.0"
 	},
 	"require-dev": {
 		"pestphp/pest": "^2.8",
